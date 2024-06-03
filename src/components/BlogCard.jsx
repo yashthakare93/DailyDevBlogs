@@ -7,9 +7,9 @@ const BlogCard = ({ blogs, selectedCategory }) => {
         <div className="grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8 rounded-xl pb-10">
             {
                 filteredBlogs.map((blog) => {
-                    console.log(blog.image);
-                    const blogPath = `/blog-website-react/src/BlogPost/${blog.id}.html`;
-                    const imagePath = blog.image;
+                   
+                    const blogPath = `http://192.168.29.125:5500/blog-website-react/src/BlogPost/${blog.id}.html`;
+                    const imagePath = blog.image; 
 
                     return (
                         <a key={blog.id} href={blogPath} target="_blank" rel="noopener noreferrer" className="shadow-lg rounded-xl hover:shadow-2xl cursor-pointer flex flex-col">

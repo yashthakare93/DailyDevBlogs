@@ -1,13 +1,17 @@
-import { defineConfig } from 'vite';
+// vite.config.js
 import react from '@vitejs/plugin-react';
-
+import { defineConfig } from 'vite';
 
 export default defineConfig({
+  base: '/',
   resolve: {
     alias: {
-      'path': 'path-browserify',
+      path: 'path-browserify',
     },
   },
   plugins: [react()],
-  assetsInclude: ['**/*.html']
+  optimizeDeps: {
+    include: ['source-map-js'],
+  },
+  assetsInclude: ['**/*.html'],
 });

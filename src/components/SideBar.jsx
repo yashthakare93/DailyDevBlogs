@@ -15,8 +15,7 @@ const SideBar = () => {
                 <h3 className="text-2xl font-semibold py-2">Latest Blogs</h3>
                 <ul>
                     {popularBlogs.map((blog, index) => {
-                        const baseURL = "http://192.168.43.44:5500";
-                        const blogPath = `${baseURL}/blog-website-react/src/BlogPost/${blog.id}.html`;
+                        const blogPath = `http://192.168.29.125:5500/blog-website-react/src/BlogPost/${blog.id}.html`;
                         return (
                             <li key={index} className="mb-2">
                                 <h4 className="" href={blogPath} target="_blank" rel="noopener noreferrer">
