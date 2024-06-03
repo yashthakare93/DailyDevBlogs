@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import BlogCard from './BlogCard';
-import BlogData from 'C:\\Users\\DELL\\OneDrive\\Desktop\\Blog Website\\react-blog-website\\BlogData\\BlogData.json';
+import BlogData from '../BlogData/BlogData.json';  
+
 import CategorySelection from './CategorySelection';
 import SideBar from './SideBar';
 
