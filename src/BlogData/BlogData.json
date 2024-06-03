@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "title": "What is CDN ? Understanding Content delivery system ?",
+        "image": "../BlogData/img/cdn.jpg",
+        "category": "System Design",
+        "published_date": "May 30, 2024",
+        "reading_time": "10 min"
+    },
+    {
+        "id": 2,
+        "title": "What is API Gateway, and How does it work ?",
+        "image": "../BlogData/img/643fd2fde829634fa4f769a0_6178d93647ddf9f443e800f4_API Gateway example.png",
+        "category": "System Design",
+        "published_date": "May 31, 2024",
+        "reading_time": "6 min"
+    },
+    {
+        "id": 3,
+        "title": "What is REST API ? ",
+        "image": "../BlogData/img/",
+        "category": "System Design",
+        "published_date": "June 1, 2024",
+        "reading_time": "6 min"
+    },
+    {
+        "id": 4,
+        "title": "How JSX Parsing Works ? Uncovering the Magic Behind React's Syntax ",
+        "image": "../BlogData/img/jsx-flow-e1539150962884.jpg",
+        "category": "React",
+        "published_date": "June 2, 2024",
+        "reading_time": "6 min"
+    },
+    {
+        "id": 5,
+        "title": "What is CDN ? Understanding Content delivery system ?",
+        "image": "../BlogData/img/cdn.jpg",
+        "category": "System Design",
+        "published_date": "May 30, 2024",
+        "reading_time": "10 min"
+    },
+    {
+        "id": 6,
+        "title": "What is API Gateway, and How does it work ?",
+        "image": "../BlogData/img/643fd2fde829634fa4f769a0_6178d93647ddf9f443e800f4_API Gateway example.png",
+        "category": "System Design",
+        "published_date": "May 31, 2024",
+        "reading_time": "6 min"
+    },
+    {
+        "id": 7,
+        "title": "What is REST API ? ",
+        "image": "../BlogData/img/",
+        "category": "System Design",
+        "published_date": "June 1, 2024",
+        "reading_time": "6 min"
+    },
+    {
+        "id": 8,
+        "title": "How JSX Parsing Works ? Uncovering the Magic Behind React's Syntax ",
+        "image": "../BlogData/img/jsx-flow-e1539150962884.jpg",
+        "category": "React",
+        "published_date": "June 2, 2024",
+        "reading_time": "6 min"
+    },
+    {
+        "id": 9,
+        "title": "What is REST API ? ",
+        "image": "../BlogData/img/",
+        "category": "System Design",
+        "published_date": "June 1, 2024",
+        "reading_time": "6 min"
+    },
+    {
+        "id": 10,
+        "title": "How JSX Parsing Works ? Uncovering the Magic Behind React's Syntax ",
+        "image": "../BlogData/img/jsx-flow-e1539150962884.jpg",
+        "category": "React",
+        "published_date": "June 2, 2024",
+        "reading_time": "6 min"
+    },
+    {
+        "id": 11,
+        "title": "What is REST API ? ",
+        "image": "../BlogData/img/",
+        "category": "System Design",
+        "published_date": "June 1, 2024",
+        "reading_time": "6 min"
+    },
+    {
+        "id": 12,
+        "title": "How JSX Parsing Works ? Uncovering the Magic Behind React's Syntax ",
+        "image": "../BlogData/img/jsx-flow-e1539150962884.jpg",
+        "category": "React",
+        "published_date": "June 2, 2024",
+        "reading_time": "6 min"
+    },
+    {
+        "id": 13,
+        "title": "How JSX Parsing Works ? Uncovering the Magic Behind React's Syntax ",
+        "image": "../BlogData/img/jsx-flow-e1539150962884.jpg",
+        "category": "React",
+        "published_date": "June 2, 2024",
+        "reading_time": "6 min"
+    }
+]
