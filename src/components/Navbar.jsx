@@ -1,6 +1,5 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable react/jsx-key */
-import { list } from "postcss"
 import React,{useState} from "react"
 import { NavLink } from "react-router-dom"
 import {FaGithub, FaLinkedin, FaBars , FaXmark} from 'react-icons/fa6'
