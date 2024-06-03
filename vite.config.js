@@ -18,5 +18,5 @@ export default defineConfig({
   optimizeDeps: {
     include: ['source-map-js'],
   },
-  assetsInclude: ['**/*.html'],
+  assetsInclude: ['**/*.html','**/*.jsx'],
 });
